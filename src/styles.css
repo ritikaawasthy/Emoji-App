@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Potta One', cursive;;
+  text-align: center;
+  color: white;
+}
+
+body{
+ background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/07/48/465811cc88e057c.jpg");
+}
+
+.meaning{
+  color: darkViolet;
+}
